@@ -2,7 +2,7 @@
 
 A **Python-based desktop chatbot** powered by OpenAI GPT-3.5-turbo, featuring secure user authentication, persistent chat history, and text-to-speech responses. Built with `tkinter` for the GUI and `SQLite` for database storage.  
 
-![Demo GIF](https://via.placeholder.com/600x400?text=ChatBot+Demo+GIF) *(Replace with actual demo GIF later)*  
+
 
 ---
 
