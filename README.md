@@ -96,7 +96,7 @@ Feel free to open **issues** or **PRs**!
 ---
 
 ## **License** 📜  
-MIT License – See [LICENSE](LICENSE).  
+MIT License – See [LICENSE](https://github.com/GitZawad/AI-Chatbot-Application/blob/main/LICENSE)).  
 
 ---
 
