@@ -100,16 +100,4 @@ MIT License – See [LICENSE](LICENSE).
 
 ---
 
-**Made with ❤️ by [Your Name]**  
-🔗 *[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)*  
 
----
-
-### **Screenshots** (Optional)  
-| Login Screen | Chat Interface |  
-|--------------|----------------|  
-| ![Login](https://via.placeholder.com/300x200?text=Login+Screen) | ![Chat](https://via.placeholder.com/300x200?text=Chat+Window) |  
-
-*(Replace placeholders with actual screenshots later)*  
-
----
